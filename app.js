@@ -1,4 +1,3 @@
-
 let users = [];
 let usersContainer = document.getElementById('usersContainer');
 let alert = document.getElementById('alert');
